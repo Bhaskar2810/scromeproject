@@ -1,0 +1,26 @@
+{
+  "50_requests": {
+    "totalRequests": 50,
+    "successCount": 50,
+    "failCount": 0,
+    "successRate": "100.0%",
+    "totalDurationMs": 1948,
+    "avgLatencyMs": 879,
+    "p50Ms": 871,
+    "p95Ms": 1052,
+    "p99Ms": 1094,
+    "throughputRps": 25.67
+  },
+  "100_requests": {
+    "totalRequests": 100,
+    "successCount": 100,
+    "failCount": 0,
+    "successRate": "100.0%",
+    "totalDurationMs": 3267,
+    "avgLatencyMs": 717,
+    "p50Ms": 703,
+    "p95Ms": 880,
+    "p99Ms": 883,
+    "throughputRps": 30.61
+  }
+}
